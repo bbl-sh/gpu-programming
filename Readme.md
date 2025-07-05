@@ -1,6 +1,6 @@
 # Note - The course code will be updated soon.
 
-# GPU Programming - CUDA and OpenCL Learning Repository
+# GPU Programming -   CUDA and OpenCL Learning Repository
 
 ## Motivation
 
@@ -49,7 +49,3 @@ You can use Kaggle or Google Colab if you don't have a GPU locally. Here’s a b
 If you’re also exploring GPU programming and want to share ideas, improvements, or corrections, feel free to open an issue or a pull request. Always happy to collaborate and learn more.
 
 Thanks for stopping by.
-
----
-
-Let me know if you want to add sections like "Recommended Resources," "Project Ideas," or tutorials.
